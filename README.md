@@ -10,3 +10,5 @@ Actualizacion para fetch
 # JaredDeveloper
 
 Cambios desde mi rama local llamada: [JaredDeveloper]
+
+Cambios desde dev editor PA!
